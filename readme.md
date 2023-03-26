@@ -17,3 +17,6 @@
      this.ticketClient.emit('payment_sucess', { success: true });
   ```
   - and finally return `{ status: true };` form doPayment message pattern funcation.
+
+# video reference
+https://www.youtube.com/watch?v=C250DCwS81Q&list=PLx-OQRQE9_mY_xqT5h3SNbkErDjxSj6Zb&index=8&ab_channel=MichaelGuay
