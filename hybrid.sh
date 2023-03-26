@@ -1,0 +1,1 @@
+cd ticket-service && npm run dev

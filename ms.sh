@@ -1,0 +1,1 @@
+cd payment-service && npm run dev
